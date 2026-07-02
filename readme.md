@@ -174,30 +174,6 @@ streamlit run app.py
 The application will open automatically in your browser.
 
 ---
-
-## 📸 Screenshots
-
-Add screenshots after building your application.
-
-```
-screenshots/
-│
-├── home.png
-├── chat.png
-```
-
-Example:
-
-```markdown
-## Home
-
-![Home](screenshots/home.png)
-
-## Chat
-
-![Chat](screenshots/chat.png)
-```
-
 ---
 
 ## 📦 Requirements
